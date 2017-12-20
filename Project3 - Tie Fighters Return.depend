@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1476294343 source:c:\users\bball\desktop\cs 2336\project3 - tie fighters return\basenode.cpp
+	"BaseNode.h"
+
+1476297599 c:\users\bball\desktop\cs 2336\project3 - tie fighters return\basenode.h
+	<string>
+
+1475975296 source:c:\users\bball\desktop\cs 2336\project3 - tie fighters return\main.cpp
+	<fstream>
+	<iomanip>
+	<string>
+
+1476295717 source:c:\users\bball\desktop\cs 2336\project3 - tie fighters return\doublelinknode.cpp
+	"DoubleLinkNode.h"
+
+1476297055 c:\users\bball\desktop\cs 2336\project3 - tie fighters return\doublelinknode.h
+	"BaseNode.h"
+
+1476297573 source:c:\users\bball\desktop\cs 2336\project3 - tie fighters return\linkedlist.cpp
+	"LinkedList.h"
+
+1476297599 c:\users\bball\desktop\cs 2336\project3 - tie fighters return\linkedlist.h
+	"DoubleLinkNode.h"
+	<fstream>
+
+1476290743 source:c:\users\bball\desktop\cs 2336\project 3 - tie fighters return\basenode.cpp
+	"BaseNode.h"
+
+1477253249 c:\users\bball\desktop\cs 2336\project 3 - tie fighters return\basenode.h
+	<string>
+	<string.h>
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1477766902 source:c:\users\bball\desktop\cs 2336\project 3 - tie fighters return\doublelinknode.cpp
+	"DoubleLinkNode.h"
+
+1477021761 c:\users\bball\desktop\cs 2336\project 3 - tie fighters return\doublelinknode.h
+	"BaseNode.h"
+
+1477965040 source:c:\users\bball\desktop\cs 2336\project 3 - tie fighters return\linkedlist.cpp
+	"LinkedList.h"
+
+1477265581 c:\users\bball\desktop\cs 2336\project 3 - tie fighters return\linkedlist.h
+	"DoubleLinkNode.h"
+
+1477984303 source:c:\users\bball\desktop\cs 2336\project 3 - tie fighters return\main.cpp
+	<stdlib.h>
+	<sstream>
+	"LinkedList.h"
+

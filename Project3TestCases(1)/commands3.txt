@@ -1,0 +1,9 @@
+sort area
+sort jedi
+search Chewbacca
+C-3PO
+237.89%
+12A.2
+Ke$ha
+sort area
+100.00
